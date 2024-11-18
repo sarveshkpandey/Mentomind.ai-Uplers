@@ -17,5 +17,5 @@ The project is divided into three files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drag-and-drop-table.git
+   git clone https://github.com/sarveshkpandey/Mentomind.ai-Uplers
    cd drag-and-drop-table
